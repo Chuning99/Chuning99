@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chuning Liu</h1>
-<h3 align="center">A Senior Student At UCSD, BS in Computer Science</h3>
+<h3 align="center">A First Year Master Student At USC, MS in Computer Science</h3>
 
 - 🏃 Basketball/ Swimming/ Table Tennis
 
